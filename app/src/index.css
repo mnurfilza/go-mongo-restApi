@@ -9,6 +9,11 @@ body {
   height: 80px;
 }
 
+
+#app-logo{
+  background-attachment: fixed;
+}
+
 .App-header {
   background-color: #222;
   padding: 20px;

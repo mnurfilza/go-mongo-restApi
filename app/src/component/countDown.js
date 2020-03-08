@@ -14,7 +14,7 @@ class Header extends React.Component {
           sec: 0,
         }
       }
-    
+      
       componentDidMount() {
         // update every second
         this.interval = setInterval(() => {
